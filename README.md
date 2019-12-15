@@ -1,3 +1,3 @@
-A web crawler, 
-building it step by step
+A web crawler                                                                                                                                                 
+Building it step by step                                                                                                                 
 Currently scrapping data from Wiki
