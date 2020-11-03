@@ -1,1 +1,1 @@
-Web Crawler project 
+Web Scraping project 
